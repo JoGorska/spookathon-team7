@@ -148,3 +148,12 @@ body {
 
 
 /* End Title Page Art */
+
+/* Canvas page four */
+
+#page-four-canvas {
+    width: 100%;
+    height: 100vh;
+    border: 3px solid yellow;
+    display: flex;
+}
