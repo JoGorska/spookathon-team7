@@ -161,3 +161,13 @@ body {
 
 
 /* End Title Page Art */
+
+/* page 4 background Img */
+
+.background-monster {
+    background:
+    black
+    url('../images/pg_4_monster_samuele-giglio-HedBdEbtUn4-unsplash.jpg')
+    center/cover
+    no-repeat;
+}
